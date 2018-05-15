@@ -1,24 +1,9 @@
-# README
+# Rails Homework: Validations
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I found this homework easier so for that reason I'm feeling more confident with Rails.
 
-Things you may want to cover:
+* I found it much easier to make the Users resource manually than I would have done  yesterday!
 
-* Ruby version
+* I didn't find it too hard to make validations
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* I found it easy to check my database using the Rails console.
